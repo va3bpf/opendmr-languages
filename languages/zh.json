@@ -448,6 +448,10 @@
     "TEXT_THEME_GRAPHITE": "石墨橙",
     "TEXT_THEME_HIGH_CONTRAST": "高对比",
     "TEXT_THEME_NIGHT_AMBER": "夜视琥珀",
-    "TEXT_THEME_SUNLIGHT": "阳光"
+    "TEXT_THEME_SUNLIGHT": "阳光",
+    "TEXT_NOTICE_SENDING": "正在发送…",
+    "TEXT_NOTICE_SENT": "已发送",
+    "TEXT_NOTICE_BUSY": "信道忙，未发送",
+    "TEXT_NOTICE_NOT_SENT": "未发送"
   }
 }
