@@ -19,6 +19,7 @@ Write `cjk.bin` even for an English interface: Han characters in channel and con
 |---|---|---|
 | `languages/zh.json` | 中文 (Chinese) | va3bpf |
 | `languages/es.json` | Español (Spanish) | looking for a maintainer |
+| `languages/tr.json` | Türkçe (Turkish) | d0ukan |
 | `languages/cjk.bin` | The Chinese font (GB2312, made from Noto Sans SC, SIL OFL 1.1, see `languages/OFL-NotoSansSC.txt`) | va3bpf |
 | `docs/installation.es.md`, `docs/manual.es.md` | The installation guide and user manual in Spanish | looking for a maintainer |
 

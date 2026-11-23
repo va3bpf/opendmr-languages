@@ -18,6 +18,7 @@
 |---|---|---|
 | `languages/zh.json` | 中文 | va3bpf |
 | `languages/es.json` | Español（西班牙文） | 欢迎接手 |
+| `languages/tr.json` | Türkçe（土耳其文） | d0ukan |
 | `languages/cjk.bin` | 中文字库（GB2312，由思源黑体 Noto Sans SC 生成，SIL OFL 1.1，见 `languages/OFL-NotoSansSC.txt`） | va3bpf |
 | `docs/installation.es.md`、`docs/manual.es.md` | 西班牙文的安装指南和使用手册 | 欢迎接手 |
 
