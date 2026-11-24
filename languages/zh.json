@@ -348,6 +348,8 @@
     "TEXT_TX": "发射",
     "TEXT_VOX": "声控",
     "TEXT_FACTORY_TABLE": "出厂校准表",
+    "TEXT_CAL_COPY": "副本",
+    "TEXT_CAL_DEFAULT": "缺省",
     "TEXT_OSC_TUNE": "晶振微调",
     "TEXT_RX_LEVEL": "接收电平",
     "TEXT_CW_RX": "CW 接收",
