@@ -366,6 +366,7 @@
     "TEXT_MENU_PLACES": "记住菜单位置",
     "TEXT_UI_RX_MODE_HINT": "切换到FM或DMR才能发射",
     "TEXT_TALKER_BEEP": "呼叫提示音",
+    "TEXT_TALKER_BOTH_ENDS": "讲话人首尾",
     "TEXT_FM_TX_TONES": "FM发射音",
     "TEXT_AIR_START": "空中开始音",
     "TEXT_AIR_END": "空中结束音",
