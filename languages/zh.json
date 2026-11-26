@@ -484,7 +484,6 @@
     "TEXT_SMS_RESEND": "重发",
     "TEXT_UI_CLOSE": "关闭",
     "TEXT_RF_NO_LOCK": "射频未锁定",
-    "TEXT_UI_RF_NO_LOCK_HINT": "禁止发射：见固件信息",
-    "TEXT_UI_SQL": "静噪"
+    "TEXT_UI_RF_NO_LOCK_HINT": "禁止发射：见固件信息"
   }
 }
