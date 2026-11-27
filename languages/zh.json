@@ -483,6 +483,8 @@
     "TEXT_SMS_GROUP": "组呼",
     "TEXT_SMS_HINT_KEYS": "0-9 输入  * 符号  # 预设短语",
     "TEXT_SMS_RESEND": "重发",
-    "TEXT_UI_CLOSE": "关闭"
+    "TEXT_UI_CLOSE": "关闭",
+    "TEXT_RF_NO_LOCK": "射频未锁定",
+    "TEXT_UI_RF_NO_LOCK_HINT": "禁止发射：见固件信息"
   }
 }
